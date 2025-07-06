@@ -1,0 +1,10 @@
+<filmschedule>
+    <row id="201" deleted="0" film_id="173" schedule_id="189" date="20221108"/>
+    <row id="212" deleted="0" film_id="173" schedule_id="189" date="20221015"/>
+    <row id="202" deleted="0" film_id="161" schedule_id="189" date="20221209"/>
+    <row id="52" deleted="0" film_id="30" schedule_id="32" date="20221209"/>
+    <row id="260" deleted="0" film_id="172" schedule_id="32" date="20221015"/>
+    <row id="339" deleted="0" film_id="315" schedule_id="189" date="20221225"/>
+    <row id="349" deleted="0" film_id="314" schedule_id="32" date="20221227"/>
+    <row id="359" deleted="0" film_id="175" schedule_id="189" date="20221015"/>
+</filmschedule>

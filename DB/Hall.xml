@@ -1,0 +1,5 @@
+<hall>
+    <row id="28" deleted="1" row_count="12" place_count="15" name="синий зал" number_of_comfort_seats="0" number_of_extra_comfort_seats ="0"/>
+    <row id="29" deleted="0" row_count="25" place_count="30" name="красный зал" number_of_comfort_seats="0" number_of_extra_comfort_seats ="0"/>
+    <row id="76" deleted="0" row_count="12" place_count="15" name="синий зал" number_of_comfort_seats="2" number_of_extra_comfort_seats ="1" row_comfort_0="-572662307" row_comfort_1="-572662307" row_extra_comfort="0"/>
+</hall>

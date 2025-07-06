@@ -1,0 +1,9 @@
+<film>
+    <row id="173" deleted="0" rent_start_date="20221005" rent_end_date="20221115" name="Властелин колец" ticket_cost="6" rating_id="31" genre="фэнтэзи"/>
+    <row id="175" deleted="0" rent_start_date="20221005" rent_end_date="20221115" name="Звездные войны" ticket_cost="6" rating_id="31" genre="фантастика"/>
+    <row id="315" deleted="0" rent_start_date="20220525" rent_end_date="20230215" name="Клаус" ticket_cost="7" rating_id="187" genre="мультфильм"/>
+    <row id="161" deleted="0" rent_start_date="20221012" rent_end_date="20230214" name="Крепкий орешек" ticket_cost="5" rating_id="31" genre="боевик"/>
+    <row id="30" deleted="0" rent_start_date="20220210" rent_end_date="20220328" name="Лабиринт" ticket_cost="8" rating_id="31" genre="фэнтэзи"/>
+    <row id="172" deleted="0" rent_start_date="20221005" rent_end_date="20221115" name="Пятый элемент" ticket_cost="6" rating_id="31" genre="фантастика"/>
+    <row id="314" deleted="0" rent_start_date="20221210" rent_end_date="20230125" name="Реалбная любовь" ticket_cost="6" rating_id="31" genre="ромком"/>
+</film>

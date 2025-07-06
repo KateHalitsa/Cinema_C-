@@ -1,0 +1,12 @@
+<userrole>
+    <row id="3" deleted="0" role_id="2" user_id="1"/>
+    <row id="19" deleted="0" role_id="13" user_id="6"/>
+    <row id="20" deleted="1" role_id="13" user_id="1"/>
+    <row id="24" deleted="1" role_id="13" user_id="1"/>
+    <row id="35" deleted="0" role_id="34" user_id="1"/>
+    <row id="122" deleted="0" role_id="85" user_id="1"/>
+    <row id="139" deleted="0" role_id="13" user_id="1"/>
+    <row id="272" deleted="0" role_id="34" user_id="271"/>
+    <row id="273" deleted="0" role_id="85" user_id="270"/>
+    <row id="274" deleted="0" role_id="2" user_id="220"/>
+</userrole>

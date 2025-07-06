@@ -1,0 +1,10 @@
+<ticket>
+    <row id="53" deleted="0" user_id="1" row="1" cost="8" film_shedule_id="52" place="2"/>
+    <row id="54" deleted="0" user_id="1" row="3" cost="8" film_shedule_id="52" place="2"/>
+    <row id="55" deleted="0" user_id="1" row="5" cost="8" film_shedule_id="52" place="15"/>
+    <row id="156" deleted="0" user_id="1" row="6" cost="8" film_shedule_id="52" place="5"/>
+    <row id="158" deleted="0" user_id="1" row="16" cost="8" film_shedule_id="52" place="18"/>
+    <row id="159" deleted="0" user_id="6" row="19" cost="8" film_shedule_id="52" place="12"/>
+    <row id="210" deleted="0" user_id="56" row="6" cost="8" film_shedule_id="52" place="11"/>
+    <row id="258" deleted="0" user_id="220" row="9" cost="6" film_shedule_id="201" place="9"/>
+</ticket>
